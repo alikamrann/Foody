@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Foody</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recipes_fragment">recipes </string>
+    <string name="favorite_recipes_fragment">favorite  </string>
+    <string name="food_joke"> joke</string>
+    <string name="meal_type">meal Type</string>
+    <string name="main_course">main course</string>
+    <string name="side_dish">Side Dish</string>
+    <string name="dessert">dessert</string>
+    <string name="appetizer">appetizer</string>
+    <string name="salad">salad</string>
+    <string name="bread">bread</string>
+    <string name="breakfast">breakfast</string>
+    <string name="soup">soup</string>
+    <string name="beverage">beverage</string>
+    <string name="sauce">sauce</string>
+    <string name="marinade">marinade</string>
+    <string name="fingerfood">fingerfood</string>
+    <string name="snack">snack</string>
+    <string name="drink">drink</string>
+    <string name="diet_type">Diet Type</string>
+    <string name="gluten_free">Gluten Free</string>
+    <string name="ketogenic">Ketogenic</string>
+    <string name="vegetarian">Vegetarian</string>
+    <string name="lacto_vegetarian">Lacto-Vegetarian</string>
+    <string name="ovo_vegetarian">Ovo-Vegetarian</string>
+    <string name="vegan">Vegan</string>
+    <string name="pescetarian">Pescetarian</string>
+    <string name="paleo">Paleo</string>
+    <string name="primal">Primal</string>
+    <string name="whole30">Whole30</string>
+    <string name="apply">Apply</string>
+    <string name="search">search</string>
+    <string name="dairy_free">Dairy Free</string>
+    <string name="healthy">Healthy</string>
+    <string name="cheap">cheap</string>
+    <string name="save_to_favorites">save to Favorites</string>
+    <string name="no_favorite_recipes">No Favorite Recipes.</string>
+    <string name="delete_favorite_menu">Delete Favorite Menu</string>
+    <string name="delete_all">Delete All</string>
+    
+    <string name="lorem_ipsum">In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.</string>
+    <string name="share">share</string>
+</resources>

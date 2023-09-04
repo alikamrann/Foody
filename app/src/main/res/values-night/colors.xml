@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+
+    <color name="colorPrimery">#6200EA</color>
+    <color name="colorPrimeryDark">#5502c8</color>
+    <color name="colorAccent">#9d46FF</color>
+
+
+    <color name="lightGray">#f9f9f9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="mediumGray">#d1d1d1</color>
+    <color name="lightMediumGray">#80d1d1d1</color>
+    <color name="darkGray">#4b4b4b</color>
+    <color name="dark">#313c44</color>
+    <color name="darker">#151b20</color>
+    <color name="red">#ff4646</color>
+    <color name="yellow">#ffc114</color>
+    <color name="green">#00c980</color>
+    <!--    DARK THEME -->
+    //custom chip style
+    <color name="checkedChipBackgroundColor">@color/dark</color>
+    <color name="chipBackgroundColor">@color/darker</color>
+    <color name="checkChipTextColor">@color/lightGray</color>
+    <color name="chipTextColor">@color/lightGray</color>
+
+
+    //Custom CardView Style
+    <color name="strockColor">@color/mediumGray</color>
+    <color name="cardBackgroundColor">@color/darker</color>
+    <color name="titleColor">@color/mediumGray</color>
+
+    <color name="statusBarColor">@color/black</color>
+    <color name="contextualStatusBarColor">@color/darker</color>
+    <color name="contextualActionBarColor">@color/darker</color>
+    <color name="cardBackgroundLightColor">#106200EA</color>
+    <color name="actionBarBackgroundColor">@color/darker</color>
+
+    <color name="backgroundColor">@color/dark</color>
+    <color name="descriptionColor">@color/mediumGray</color>
+
+
+    <color name="bottomNavigationBackground">@color/darker</color>
+    <color name="bottomNavItemColor">@color/mediumGray</color>
+    <color name="bottomNavCheckItemColor">@color/colorAccent</color>
+
+    <color name="placeholderColor">@color/darker</color>
+</resources>
