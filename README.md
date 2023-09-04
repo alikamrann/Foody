@@ -1,9 +1,9 @@
-
 <img src="https://github.com/alikamrann/Foody/assets/68841512/c2abf1c1-9768-40e9-bc22-dac42c565f7a" width="250" height="500">
-
 <img src="https://github.com/alikamrann/Foody/assets/68841512/63867abf-09f5-4cf0-953d-0f7aef4f67bf" width="250" height="500">
 <img src="https://github.com/alikamrann/Foody/assets/68841512/4f9d8556-147d-4ef7-aedb-0989db21bac8" width="250" height="500">
 <img src="https://github.com/alikamrann/Foody/assets/68841512/c802e7d8-bf80-4aed-a1cd-e5fb6f342665" width="250" height="500">
+
+
 Cooking Tutorial App
 Overview:
 This project is a cooking tutorial app built with Kotlin, incorporating advanced technologies such as Room, LiveData, Data Binding, and ViewModel to enhance the user experience.
