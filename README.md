@@ -24,20 +24,11 @@ To obtain an API key for your project, you can visit a website like [https://spo
 Contact:
 If you have any questions or would like to contribute to this project, please don't hesitate to reach out to us at [alikamran.dev@gmail.com].
 
-img[src*="#thumbnail"] {
-   width:150px;
-   height:100px;
-}
-img[title="thumbnail"] {
-   width:200px;
-}
-img[alt$="-thumbnail"]{
-    width:300px;
-}
+
 
 # Foody
-![img](https://github.com/alikamrann/Foody/assets/68841512/c2abf1c1-9768-40e9-bc22-dac42c565f7a)<!-- src = link#thumbnail -->
-![img](https://github.com/alikamrann/Foody/assets/68841512/63867abf-09f5-4cf0-953d-0f7aef4f67bf)<!-- src = link#thumbnail -->
-![img](https://github.com/alikamrann/Foody/assets/68841512/4f9d8556-147d-4ef7-aedb-0989db21bac8)<!-- src = link#thumbnail -->
-![img](https://github.com/alikamrann/Foody/assets/68841512/c802e7d8-bf80-4aed-a1cd-e5fb6f342665)<!-- src = link#thumbnail -->
-<!-- src = link#thumbnail -->
+<img src="https://github.com/alikamrann/Foody/assets/68841512/c2abf1c1-9768-40e9-bc22-dac42c565f7a"" width="100" height="100">
+
+![img](https://github.com/alikamrann/Foody/assets/68841512/63867abf-09f5-4cf0-953d-0f7aef4f67bf)
+![img](https://github.com/alikamrann/Foody/assets/68841512/4f9d8556-147d-4ef7-aedb-0989db21bac8)
+![img](https://github.com/alikamrann/Foody/assets/68841512/c802e7d8-bf80-4aed-a1cd-e5fb6f342665)
